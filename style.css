@@ -1,0 +1,113 @@
+
+#container {
+  display: none;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.picture-margin {
+  margin-right: 20px;
+}
+
+/* picture 1 */
+
+#picture1 {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid black;
+}
+
+#thumbnail1 {
+  cursor: pointer;
+}
+
+#full1 {
+  position: relative;
+  cursor: crosshair;
+}
+
+/* picture 2 */
+
+#picture2 {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid black;
+}
+
+#thumbnail2 {
+  cursor: pointer;
+}
+
+#full2 {
+  position: relative;
+  cursor: crosshair;
+}
+
+/* picture 3 */
+
+#picture3 {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid black;
+}
+
+#thumbnail3 {
+  cursor: pointer;
+}
+
+#full3 {
+  position: relative;
+  cursor: crosshair;
+}
+
+/* picture 4 */
+
+#picture4 {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid black;
+}
+
+#thumbnail4 {
+  cursor: pointer;
+}
+
+#full4 {
+  position: relative;
+  cursor: crosshair;
+}
+
+/* picture 5 */
+
+#picture5 {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid black;
+}
+
+#thumbnail5 {
+  cursor: pointer;
+}
+
+#full5 {
+  position: relative;
+  cursor: crosshair;
+}
+
+/* picture 6 */
+
+#picture6 {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid black;
+}
+
+#thumbnail6 {
+  cursor: pointer;
+}
+
+#full6 {
+  position: relative;
+  cursor: crosshair;
+}
